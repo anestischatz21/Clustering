@@ -11,4 +11,4 @@ Identify hidden segments within red wines based on their physicochemical propert
 - Visualized the high-dimensional clusters in **2D/3D space using PCA** for intuitive interpretation.
 
 ## Value
-Uncovered **[Number] distinct market segments** (e.g., "High-Acidity, Low-Alcohol", "Balanced, Premium"), providing a **data-driven foundation for targeted marketing and product placement strategies**.
+Uncovered **[4] distinct market segments** (e.g., "High-Acidity, Low-Alcohol", "Balanced, Premium"), providing a **data-driven foundation for targeted marketing and product placement strategies**.
