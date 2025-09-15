@@ -1,6 +1,4 @@
-# Customer Segmentation via Wine Property Clustering
-
-**Project:** Customer Segmentation via Wine Property Clustering | Python, Unsupervised Learning
+# Project: Customer Segmentation via Wine Property Clustering | Python, Unsupervised Learning
 
 ## Objective
 Identify hidden segments within red wines based on their physicochemical properties, without using the predefined quality label.
